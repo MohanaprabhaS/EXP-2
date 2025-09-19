@@ -65,10 +65,7 @@ Open and Load circuit:
 <img width="872" height="625" alt="image" src="https://github.com/user-attachments/assets/b5ea63f0-e23e-429c-84f9-3446cc51a18c" />
 
 
-Open circuit characterictics:
-
-
-
+Open and Load circuit:
 
 
 
@@ -76,26 +73,7 @@ Open circuit characterictics:
 
 
 
-
-
-
-
-Load circuit Characteristics:
-
-
-
-
-
-
-
 <img width="1152" height="940" alt="Screenshot 2025-09-12 133224" src="https://github.com/user-attachments/assets/a16f21b9-6b87-440c-aeca-ac09f5065b72" />
-
-
-
-
-
-
-
 
 
 
