@@ -71,10 +71,12 @@ Open circuit characterictics:
 <img width="1126" height="954" alt="Screenshot 2025-09-12 132430" src="https://github.com/user-attachments/assets/7b68fe94-b41f-4534-8a3d-bbb2a766340c" />
 
 
+
 Load circuit Characteristics:
 
 
 <img width="1152" height="940" alt="Screenshot 2025-09-12 133224" src="https://github.com/user-attachments/assets/a16f21b9-6b87-440c-aeca-ac09f5065b72" />
+
 
 
 Result:
