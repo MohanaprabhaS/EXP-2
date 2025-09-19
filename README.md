@@ -1,5 +1,8 @@
 # EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
+# Name: Mohanaprabha S
+# Date: 19.09.25
+# Register no: 212224040197
 
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
@@ -47,26 +50,28 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+Open and Load circuit:
 
-<img width="566" height="409" alt="image" src="https://github.com/user-attachments/assets/0efe72b0-6bda-41df-90c8-6df5d7ab9ebc" />
+<img width="622" height="889" alt="image" src="https://github.com/user-attachments/assets/c2c560c4-4f66-4f2e-bf9a-ded509beaf3a" />
 
+<img width="622" height="885" alt="image" src="https://github.com/user-attachments/assets/6c12261e-5b9f-4fe1-9b28-ddf66c41aabb" />
 
-Tabulation for Load Test:
+<img width="624" height="885" alt="image" src="https://github.com/user-attachments/assets/aafe15cf-69f7-4941-bcb2-f2d8a585a3df" />
 
-<img width="699" height="494" alt="image" src="https://github.com/user-attachments/assets/403d42ba-88a4-4b61-9344-cb9552806826" />
+<img width="620" height="831" alt="image" src="https://github.com/user-attachments/assets/89732b84-ac19-49d7-b8a0-cd1818535396" />
 
+<img width="611" height="847" alt="image" src="https://github.com/user-attachments/assets/d78771ba-73c9-4199-9867-552799116af6" />
 
-Model graph:
-Open circuit:
-
-<img width="558" height="315" alt="image" src="https://github.com/user-attachments/assets/7e7e3ccf-6509-4a74-9107-fd01852e5d71" />
-
-Load circuit:
-
-<img width="578" height="337" alt="image" src="https://github.com/user-attachments/assets/a2383bb7-f6e5-4f2a-b691-d85e12b3baa5" />
+<img width="872" height="625" alt="image" src="https://github.com/user-attachments/assets/b5ea63f0-e23e-429c-84f9-3446cc51a18c" />
 
 
- 
+Open circuit characterictics:
+
+<img width="1126" height="954" alt="Screenshot 2025-09-12 132430" src="https://github.com/user-attachments/assets/7b68fe94-b41f-4534-8a3d-bbb2a766340c" />
+
+Load circuit Characteristics:
+
+<img width="1152" height="940" alt="Screenshot 2025-09-12 133224" src="https://github.com/user-attachments/assets/a16f21b9-6b87-440c-aeca-ac09f5065b72" />
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
